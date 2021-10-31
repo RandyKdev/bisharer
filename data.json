@@ -1,0 +1,197 @@
+{
+    "USERS": {
+        "USER01": {
+            "EMAIL": "example.org.com",
+            "NAME": "john doe",
+            "SIGNED_IN_METHODS": ["google", "email"],
+            "PHONE_NUMBER": "+1324324",
+            "PIC": "https://unsplash.it/400",
+            "PUSH_NOTIFICATIONS": true,
+            "EMAIL_NOTIFICAITONS": "weekly"
+        },
+        "USER02": {
+            "EMAIL": "example.com.com",
+            "NAME": "mary land",
+            "SIGNED_IN_METHODS": ["fb"],
+            "PIC": "https://unsplash.it/400",
+            "PHONE_NUMBER": "+232432403",
+            "PUSH_NOTIFICATIONS": true,
+            "EMAIL_NOTIFICAITONS": "instant"
+        },
+        "USER03": {
+            "EMAIL": "rkwalar@gmail.com",
+            "NAME": "randy kwalar",
+            "PIC": "https://unsplash.it/400",
+            "SIGNED_IN_METHODS": ["email"],
+            "PHONE_NUMBER": "+3329876403",
+            "PUSH_NOTIFICATIONS": false,
+            "EMAIL_NOTIFICAITONS": "never"
+        }
+    },
+    "OPPORTUNITIES": {
+        "00": {
+            "TITLE": "Software developer",
+            "OFFERED_BY": "ActivSpaces",
+            "CREATED_AT": "2021-06-22",
+            "UPDATED_AT": "2021-06-22",
+            "CALL_TO_ACTION": "https://fb.com",
+            "BODY": "",
+            "CATEGORY": "job",
+            "IMAGE": "https:unsplash.it/400",
+            "POSTED_BY": "USER03"
+        },
+        "01": {
+            "TITLE": "Software developer",
+            "OFFERED_BY": "ActivSpaces",
+            "CREATED_AT": "2021-06-22",
+            "UPDATED_AT": "2021-06-22",
+            "CALL_TO_ACTION": "https://fb.com",
+            "BODY": "",
+            "CATEGORY": "scholarship",
+            "IMAGE": "https:unsplash.it/400",
+            "POSTED_BY": "USER03"
+        },
+        "03": {
+            "TITLE": "Software developer",
+            "OFFERED_BY": "ActivSpaces",
+            "CREATED_AT": "2021-06-22",
+            "UPDATED_AT": "2021-06-22",
+            "CALL_TO_ACTION": "https://fb.com",
+            "BODY": "",
+            "CATEGORY": "job",
+            "IMAGE": "https:unsplash.it/400",
+            "POSTED_BY": "USER03"
+        },
+        "04": {
+            "TITLE": "Software developer",
+            "OFFERED_BY": "ActivSpaces",
+            "CREATED_AT": "2021-06-22",
+            "UPDATED_AT": "2021-06-22",
+            "CALL_TO_ACTION": "https://fb.com",
+            "BODY": "",
+            "CATEGORY": "scholarship",
+            "IMAGE": "https:unsplash.it/400",
+            "POSTED_BY": "USER03"
+        },
+        "05": {
+            "TITLE": "Software developer",
+            "OFFERED_BY": "ActivSpaces",
+            "CREATED_AT": "2021-06-22",
+            "UPDATED_AT": "2021-06-22",
+            "CALL_TO_ACTION": "https://fb.com",
+            "BODY": "",
+            "CATEGORY": "job",
+            "IMAGE": "https:unsplash.it/400",
+            "POSTED_BY": "USER03"
+        },
+        "06": {
+            "TITLE": "Software developer",
+            "OFFERED_BY": "ActivSpaces",
+            "CREATED_AT": "2021-06-22",
+            "UPDATED_AT": "2021-06-22",
+            "CALL_TO_ACTION": "https://fb.com",
+            "BODY": "",
+            "CATEGORY": "scholarship",
+            "IMAGE": "https:unsplash.it/400",
+            "POSTED_BY": "USER03"
+        },
+        "07": {
+            "TITLE": "Software developer",
+            "OFFERED_BY": "ActivSpaces",
+            "CREATED_AT": "2021-06-22",
+            "UPDATED_AT": "2021-06-22",
+            "CALL_TO_ACTION": "https://fb.com",
+            "BODY": "",
+            "CATEGORY": "job",
+            "IMAGE": "https:unsplash.it/400",
+            "POSTED_BY": "USER03"
+        },
+        "08": {
+            "TITLE": "Software developer",
+            "OFFERED_BY": "ActivSpaces",
+            "CREATED_AT": "2021-06-22",
+            "UPDATED_AT": "2021-06-22",
+            "CALL_TO_ACTION": "https://fb.com",
+            "BODY": "",
+            "CATEGORY": "scholarship",
+            "IMAGE": "https:unsplash.it/400",
+            "POSTED_BY": "USER03"
+        },
+        "09": {
+            "TITLE": "Software developer",
+            "OFFERED_BY": "ActivSpaces",
+            "CREATED_AT": "2021-06-22",
+            "UPDATED_AT": "2021-06-22",
+            "CALL_TO_ACTION": "https://fb.com",
+            "BODY": "",
+            "CATEGORY": "job",
+            "IMAGE": "https:unsplash.it/400",
+            "POSTED_BY": "USER03"
+        },
+        "10": {
+            "TITLE": "Software developer",
+            "OFFERED_BY": "ActivSpaces",
+            "CREATED_AT": "2021-06-22",
+            "UPDATED_AT": "2021-06-22",
+            "CALL_TO_ACTION": "https://fb.com",
+            "BODY": "",
+            "CATEGORY": "scholarship",
+            "IMAGE": "https:unsplash.it/400",
+            "POSTED_BY": "USER03"
+        },
+        "11": {
+            "TITLE": "Software developer",
+            "OFFERED_BY": "ActivSpaces",
+            "CREATED_AT": "2021-06-22",
+            "UPDATED_AT": "2021-06-22",
+            "CALL_TO_ACTION": "https://fb.com",
+            "BODY": "",
+            "CATEGORY": "job",
+            "IMAGE": "https:unsplash.it/400",
+            "POSTED_BY": "USER03"
+        },
+        "12": {
+            "TITLE": "Software developer",
+            "OFFERED_BY": "ActivSpaces",
+            "CREATED_AT": "2021-06-22",
+            "UPDATED_AT": "2021-06-22",
+            "CALL_TO_ACTION": "https://fb.com",
+            "BODY": "",
+            "CATEGORY": "scholarship",
+            "IMAGE": "https:unsplash.it/400",
+            "POSTED_BY": "USER03"
+        }
+    },
+    "SAVES": {
+        "00": {
+            "SAVED_BY": "USER03",
+            "POST_ID": "00",
+            "SAVED_AT": "2021-02-12",
+            "DELETED_AT": "",
+            "VALID": true
+        }
+    },
+    "APPLIES": {
+        "00": {
+            "APPLIED_BY": "USER03",
+            "POST_ID": "00",
+            "APPLIED_AT": ""
+        }
+    },
+    "LIKES": {
+        "00": {
+            "LIKED_BY": "USER03",
+            "POST_ID": "00",
+            "LIKED_AT": "",
+            "DISLIKED_AT": "",
+            "VALID": true
+        }
+    },
+    "VIEWS": {
+        "00": {
+            "VIEWED_BY": "USER03",
+            "POST_ID": "00",
+            "VIEWED_AT": ["2021-05-09"]
+        }
+    }
+}

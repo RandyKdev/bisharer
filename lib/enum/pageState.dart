@@ -1,0 +1,7 @@
+enum PageState {
+  PULL_REFRESHING,
+  ERROR,
+  LOADING,
+  DONE,
+  LOAD_MORE,
+}
