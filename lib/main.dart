@@ -67,6 +67,7 @@ class Sharer extends StatelessWidget {
     // todo: write firebase functions
     // todo: finish by the 20 of november
     // todo: finish in the break
+    // todo: too lazy to continue
     if (settings.name == '/auth')
       return MaterialPageRoute(builder: (context) => AuthScreen());
 
